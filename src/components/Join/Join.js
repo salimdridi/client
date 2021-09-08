@@ -18,7 +18,7 @@ export default function SignIn() {
     <div className="container_join">
       <div className="wrapper_join">
        <div className="into_join">
-         <h1 className="heading">Join to Room</h1>
+         <h1 className="heading">Join a Room</h1>
          <p className="text" >Register by entering your name and creating or joining a room.</p>
          
          <div>
